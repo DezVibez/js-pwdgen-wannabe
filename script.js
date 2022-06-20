@@ -25,3 +25,9 @@ let risultato = nome + cognome + colorePreferito
 
 risultato = risultato + "21"
 console.log(risultato)
+
+/*Ora voglio mostrarlo a schermo*/
+
+
+let chiaveAccesso = document.writeln(`Password Generator: `+ risultato)
+console.log(risultato)
